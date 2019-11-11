@@ -27,7 +27,7 @@ public class MainActivity3 extends AppCompatActivity {
 // ...
 
 // Add a request (in this example, called stringRequest) to your RequestQueue.
-        MySingleton.getInstance(this).addToRequestQueue(stringRequest);
+//        MySingleton.getInstance(this).addToRequestQueue(stringRequest);
     }
 
     @Override
